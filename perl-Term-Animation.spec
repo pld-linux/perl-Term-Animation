@@ -9,7 +9,7 @@ Summary:	Term::Animation - ASCII sprite animation framework
 Summary(pl):	Term::Animation - szkielet do animacji duszków ASCII
 Name:		perl-Term-Animation
 Version:	1.0
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
