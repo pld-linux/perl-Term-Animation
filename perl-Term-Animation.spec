@@ -6,7 +6,7 @@
 %define		pdir	Term
 %define		pnam	Animation
 Summary:	Term::Animation - ASCII sprite animation framework
-Summary(pl):	Term::Animation - szkielet do animacji duszków ASCII
+Summary(pl.UTF-8):   Term::Animation - szkielet do animacji duszkÃ³w ASCII
 Name:		perl-Term-Animation
 Version:	2.1.1
 Release:	1
@@ -28,11 +28,11 @@ into the animation as an 'animation object'. An animation object can
 have a callback routine that controls the position and frame of the
 object.
 
-%description -l pl
-Ten modu³ dostarcza szkielet do tworzenia animacji duszków przy u¿yciu
-ASCII artu. Ka¿dy "duszek" ASCII jest zadany jedn± lub wiêksz± liczb±
+%description -l pl.UTF-8
+Ten moduÅ‚ dostarcza szkielet do tworzenia animacji duszkÃ³w przy uÅ¼yciu
+ASCII artu. KaÅ¼dy "duszek" ASCII jest zadany jednÄ… lub wiÄ™kszÄ… liczbÄ…
 ramek i umieszczany w animacji jako "obiekt animacji". Obiekt animacji
-mo¿e mieæ wywo³anie zwrotne steruj±ce po³o¿eniem i ramk± obiektu.
+moÅ¼e mieÄ‡ wywoÅ‚anie zwrotne sterujÄ…ce poÅ‚oÅ¼eniem i ramkÄ… obiektu.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
