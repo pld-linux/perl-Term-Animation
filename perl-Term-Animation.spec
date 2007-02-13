@@ -6,7 +6,7 @@
 %define		pdir	Term
 %define		pnam	Animation
 Summary:	Term::Animation - ASCII sprite animation framework
-Summary(pl.UTF-8):   Term::Animation - szkielet do animacji duszków ASCII
+Summary(pl.UTF-8):	Term::Animation - szkielet do animacji duszków ASCII
 Name:		perl-Term-Animation
 Version:	2.1.1
 Release:	1
