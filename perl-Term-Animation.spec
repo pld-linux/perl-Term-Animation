@@ -4,7 +4,6 @@
 
 %define		pdir	Term
 %define		pnam	Animation
-%include	/usr/lib/rpm/macros.perl
 Summary:	Term::Animation - ASCII sprite animation framework
 Summary(pl.UTF-8):	Term::Animation - szkielet do animacji duszków ASCII
 Name:		perl-Term-Animation
